@@ -85,3 +85,11 @@ Contact Information:
 Danfeng Hong: hongdanfeng1989@gmail.com<br>
 Danfeng Hong is with the Univ. Grenoble Alpes, CNRS, Grenoble INP, GIPSA-lab, 38000 Grenoble, France.
 
+环境配置:
+--------------------
+Python 3.7
+TensorFlow 1.14版本（注意不是2.0版本，有些函数不同）
+Windows 10操作系统（代码在此环境测试过）
+MATLAB R2016a或更高版本（用于生成数据）
+
+
